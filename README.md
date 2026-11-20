@@ -7,7 +7,10 @@ Ville originale : **Port-Lumière**.
 Ouvre `index.html` dans un navigateur récent (connexion Internet nécessaire pour charger Three.js).
 
 ## Contenu
-- Ville de 9×9 pâtés de maisons : centre d'affaires, docks, plage, parcs, mer tout autour
+- Une île de près de 3 km de côté avec du relief : la ville de Port-Lumière (9×9 pâtés de maisons), des collines, le Mont Azur enneigé, la forêt du Bois Noir, la Plaine des Vignes et ses fermes, le village de Saint-Aubin, le Lac Miroir et la Rivière d'Argent, l'aérodrome du Levant, le phare du Cap Lumière, des éoliennes
+- Réseau routier complet : autoroute, routes de campagne, chemin de terre, ponts ; la circulation et la police roulent partout
+- Avion pilotable, parachute, tracteurs et pick-up, vaches dans les prés
+- 15 paquets cachés sur l'île, 10 lieux à découvrir
 - Histoire en 5 missions avec Lino et Sonia, plus des petits boulots aléatoires
 - Voitures, motos, bateaux, jet-ski et hélicoptères pilotables
 - Feux tricolores respectés par la circulation, piétons qui traversent aux passages
