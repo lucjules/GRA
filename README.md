@@ -6,16 +6,18 @@ Ville originale : **Port-Lumière**.
 ## Jouer
 Ouvre `index.html` dans un navigateur récent (connexion Internet nécessaire pour charger Three.js).
 
-## Contenu (v1)
-- Ville de 9×9 pâtés de maisons : centre d'affaires, docks, plage, parcs
-- Voitures à voler (6 modèles), physique arcade avec dérapage au frein à main
-- Circulation et piétons
-- Armes (poings, pistolet, mitraillette, fusil à pompe, fusil d'assaut), armurerie
-- Niveau de recherche 1 à 5 étoiles, voitures de police, policiers à pied, hélicoptère
-- Carrosserie pour effacer les étoiles, hôpital et commissariat
-- Missions aléatoires : livraison, course, contrat, vol de voiture
-- Cycle jour/nuit, radio procédurale, mini-carte + grande carte avec GPS
-- Contrôles tactiles sur mobile
+## Contenu
+- Ville de 9×9 pâtés de maisons : centre d'affaires, docks, plage, parcs, mer tout autour
+- Histoire en 5 missions avec Lino et Sonia, plus des petits boulots aléatoires
+- Voitures, motos, bateaux, jet-ski et hélicoptères pilotables
+- Feux tricolores respectés par la circulation, piétons qui traversent aux passages
+- Météo dynamique : soleil, nuages, pluie, orage, brouillard (la pluie rend la route glissante)
+- Police jusqu'à 5 étoiles : barrages, herses, fourgons d'intervention, hélicoptère
+- Braquages d'épiceries, service de taxi, rampes de cascade
+- Atelier de tuning (moteur, blindage, nitro, pneus, peinture), voiture perso au garage de la planque
+- Commerces à acheter qui rapportent de l'argent, planque pour dormir et sauvegarder
+- Téléphone (mécano, taxi, avocat, météo), statistiques et 12 succès, options
+- Cycle jour/nuit, radio procédurale, mini-carte + grande carte avec GPS, contrôles tactiles
 
 ## Développement
 Le code source est `src/game.html`. Après modification, lance `./build.sh` pour régénérer `index.html`.
